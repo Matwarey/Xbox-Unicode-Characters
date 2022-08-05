@@ -196,3 +196,41 @@ Y Button: 
 B Button: 
 
 A Button: 
+
+Two People without Underline and one with Underline (Right): 
+
+Two People without Underline and one with Underline (Left): 
+
+Two People without Underline and one with Underline (Middle): 
+
+Two People Star: 
+
+Two People Timed: 
+
+Two People Retry: 
+
+Two People Controller: 
+
+Leave: 
+
+Left Friends: 
+
+Right Friends: 
+
+Two People Console: 
+
+Person Upside down Retry: 
+
+Person Down: 
+
+Person Right: 
+
+Person -: 
+
+Person Timed: 
+
+Person Upload/Download: 
+
+Person with Achievement: 
+
+Person with Setting: 
